@@ -1,0 +1,1 @@
+Place real business photos here (owner-provided). Compress to WebP under 150KB, 800px wide.

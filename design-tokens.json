@@ -1,0 +1,25 @@
+{
+  "colors": {
+    "accent": "#173f31",
+    "accentStrong": "#0f2e23",
+    "accentSoft": "#e6efe9",
+    "bg": "#f7f6f1",
+    "ink": "#182420"
+  },
+  "fonts": {
+    "display": "Fraunces, Georgia, serif",
+    "body": "Inter, system-ui, sans-serif"
+  },
+  "radii": {
+    "card": "14px",
+    "button": "999px"
+  },
+  "shadow": [
+    "0 2px 8px rgba(30,20,10,.06)",
+    "0 8px 24px rgba(30,20,10,.07)"
+  ],
+  "motion": {
+    "ease": "cubic-bezier(.22,1,.36,1)",
+    "hoverLift": "translateY(-4px)"
+  }
+}
